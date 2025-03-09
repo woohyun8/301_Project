@@ -8,6 +8,6 @@ Using animated maps and line graphs, we visualized the changes in infection rate
 
 This study provides
 
-Valuable insights for malaria prevention strategies 
+- Valuable insights for malaria prevention strategies 
 
-Offers practical implications for future health policy development in South Korea
+- Offers practical implications for future health policy development in South Korea
