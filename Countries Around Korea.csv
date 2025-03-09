@@ -1,0 +1,31 @@
+﻿ISO3,Name,Metric,Units,Year,Value,Malaria Cases
+KHM,Cambodia,Incidence Rate,Cases per Thousand,2018,1.252745044,19234
+KHM,Cambodia,Incidence Rate,Cases per Thousand,2019,1.007216145,17062
+KHM,Cambodia,Incidence Rate,Cases per Thousand,2020,0.237737981,4027
+KHM,Cambodia,Incidence Rate,Cases per Thousand,2021,0.079223957,1342
+KHM,Cambodia,Incidence Rate,Cases per Thousand,2022,0.089600025,1517
+LAO,Laos,Incidence Rate,Cases per Thousand,2018,1.688447309,12889
+LAO,Laos,Incidence Rate,Cases per Thousand,2019,0.750879792,5732
+LAO,Laos,Incidence Rate,Cases per Thousand,2020,0.532979904,4068
+LAO,Laos,Incidence Rate,Cases per Thousand,2021,0.431777923,3296
+LAO,Laos,Incidence Rate,Cases per Thousand,2022,0.156664029,1195
+PHL,Philippines,Incidence Rate,Cases per Thousand,2018,0.117992318,13840
+PHL,Philippines,Incidence Rate,Cases per Thousand,2019,0.128024157,15017
+PHL,Philippines,Incidence Rate,Cases per Thousand,2020,0.12244133,14362
+PHL,Philippines,Incidence Rate,Cases per Thousand,2021,0.086842162,10186
+PHL,Philippines,Incidence Rate,Cases per Thousand,2022,0.06844871,8029
+THA,Thailand,Incidence Rate,Cases per Thousand,2018,0.016887982,1212
+THA,Thailand,Incidence Rate,Cases per Thousand,2019,0.066203938,4753
+THA,Thailand,Incidence Rate,Cases per Thousand,2020,0.005052507,362
+THA,Thailand,Incidence Rate,Cases per Thousand,2021,0.003106356,223
+THA,Thailand,Incidence Rate,Cases per Thousand,2022,0.004300583,308
+VNM,Vietnam,Incidence Rate,Cases per Thousand,2018,0.055165573,5453
+VNM,Vietnam,Incidence Rate,Cases per Thousand,2019,0.057213671,5656
+VNM,Vietnam,Incidence Rate,Cases per Thousand,2020,0.022397183,2214
+VNM,Vietnam,Incidence Rate,Cases per Thousand,2021,0.004511965,446
+VNM,Vietnam,Incidence Rate,Cases per Thousand,2022,0.007090695,700
+KOR,South Korea,Incidence Rate,Cases per Thousand,2018,0.01152,576
+KOR,South Korea,Incidence Rate,Cases per Thousand,2019,0.01118,559
+KOR,South Korea,Incidence Rate,Cases per Thousand,2020,0.0077,385
+KOR,South Korea,Incidence Rate,Cases per Thousand,2021,0.00588,294
+KOR,South Korea,Incidence Rate,Cases per Thousand,2022,0.0084,420
